@@ -10,7 +10,7 @@
 - GitHub (Versionamento)
 
 ## Time de Desenvolvedores
-- [Seu Nome]
+- [Marlon Ferreira]
 
 ## Objetivo do Software
 Desenvolver um sistema web para avaliação e gerenciamento de filmes, permitindo cadastro, edição, exclusão e visualização de filmes e análises.
